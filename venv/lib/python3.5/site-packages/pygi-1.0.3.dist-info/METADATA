@@ -1,0 +1,20 @@
+Metadata-Version: 2.0
+Name: pygi
+Version: 1.0.3
+Summary: Command line interface using gitignore.io API
+Home-page: http://github.com/onlined/pygi
+Author: Ekin Dursun
+Author-email: ekindursun@gmail.com
+License: GPLv3
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: python-Levenshtein
+
+UNKNOWN
+
+
