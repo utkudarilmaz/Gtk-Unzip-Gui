@@ -1,10 +1,9 @@
-Unzip-Gui
+# Unzip-Gui
 Simple Gtk Assistant application for unzipping archive files.
 
-Installation
+## Installation
 git clone https://github.com/utkudarilmaz/Gtk-Unzip-Gui
 
-Usage
+## Usage
 cd Gtk-Unzip-Gui/src
-
 python3 Installation.py
