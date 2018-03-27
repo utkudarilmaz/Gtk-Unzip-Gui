@@ -20,7 +20,7 @@ class TarFile():
     def extract(self):
 
         a=os.path.split(self.frompath)                          # Source path spliting
-        self.topath=self.topath+"/"+a[1]                        # Destination path + source file's name
+        self.topath=self.topath+"/"+a[1]+"/"                        # Destination path + source file's name
         os.mkdir(self.topath)                                   # Make a new dir to destiation path
                                                                 # that name is same the source file
 

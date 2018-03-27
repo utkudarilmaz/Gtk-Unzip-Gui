@@ -59,7 +59,7 @@ class Installation(Gtk.Assistant):
         self.append_page(self.box_module)
         self.set_page_title(self.box_module,"Module Selection")
         self.set_page_type(self.box_module,Gtk.AssistantPageType.CONTENT)
-        list_zip=os.listdir("/home/utku/PycharmProjects/Installation_GUI/src/Zips")
+        list_zip=os.listdir("Zips/")
 
         self.liststoremodules=Gtk.ListStore(str,bool)
 
