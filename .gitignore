@@ -1,1 +1,3 @@
 src/Zips/*
+logs/*
+src/__pycache__/
